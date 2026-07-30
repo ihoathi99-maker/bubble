@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Store</name>
+   <tag></tag>
+   <elementGuidId>a0a1999f-1552-4bf2-b94c-19cb677084ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ac30a2f22627-1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ac30a2f22627-1 > div.gun-select-label.d-flex.justify-content-between.align-items-center.w-100.gap-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b45fbea-3b16-41bf-8768-a32648507121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-select-label d-flex justify-content-between align-items-center w-100 gap-8</value>
+      <webElementGuid>d0bd066b-55cc-454b-ab9b-d40e8a7c85db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Store </value>
+      <webElementGuid>7eb761da-c8f5-42c6-b443-4234c8b1bfdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ac30a2f22627-1&quot;)/div[@class=&quot;gun-select-label d-flex justify-content-between align-items-center w-100 gap-8&quot;]</value>
+      <webElementGuid>bb68550c-f1ce-434c-a882-faf35c277d53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ac30a2f22627-1']/div</value>
+      <webElementGuid>4551e4c5-77b9-47a6-9bc0-b6c2df6e7a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[2]/following::div[3]</value>
+      <webElementGuid>fc935c35-f716-4943-8567-c0aef0c3f86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::div[12]</value>
+      <webElementGuid>e617905f-3fbf-4491-b54a-5a946e73ca7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tournament'])[2]/preceding::div[4]</value>
+      <webElementGuid>adfd58e1-ad2e-4998-b882-202557e52ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div[2]/div</value>
+      <webElementGuid>f4225c06-820a-4e5b-b742-be62de832a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Store ' or . = ' Store ')]</value>
+      <webElementGuid>3295c85c-5d5b-4032-b47b-2b28e8d84805</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Tag</name>
+   <tag></tag>
+   <elementGuidId>30132b87-ff58-46d2-8413-97f1f3264e94</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Bubble Admin/button_Add Tag.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-add-tag']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Bubble Admin/button_Add Tag.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-add-tag</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa2d182f-5df1-4229-8944-0b411cfc8387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>brand</value>
+      <webElementGuid>b03ff3e6-d7f7-4fbd-b5a9-45951288ccf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-add-tag</value>
+      <webElementGuid>83c756c3-99d0-4be1-93cd-72d280bb9ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-ui-btn   gun-ui-btn-large gun-ui-btn-rounded gun-ui-btn-large-rounded gun-ui-btn-filled gun-ui-btn-filled-primary btn-primary-action </value>
+      <webElementGuid>4be92b88-2b32-4626-86a9-ebf97ae119e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Tag </value>
+      <webElementGuid>2d71b7c1-8b1b-420b-8570-7e19e6871a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-add-tag&quot;)</value>
+      <webElementGuid>d29ea621-6b20-45e1-92b4-5d55e005da32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-add-tag']</value>
+      <webElementGuid>896b5622-7f9a-4bb2-afab-68e351cfb63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[2]/following::button[1]</value>
+      <webElementGuid>a1a66025-7298-430e-b585-56874cffda57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::button[2]</value>
+      <webElementGuid>af3cbd03-042f-4fdc-9a5a-ab6ceebd77df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Status'])[1]/preceding::button[1]</value>
+      <webElementGuid>8143022a-8727-4fd1-8a4b-1bf4a0f73f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.'])[1]/preceding::button[1]</value>
+      <webElementGuid>908db905-a213-49eb-9090-1e2e76befbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Tag']/parent::*</value>
+      <webElementGuid>3ebdcc03-3165-4ef0-a372-a465dde51c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>b747af83-295f-485d-a6d7-0a6f78500626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-add-tag' and (text() = ' Add Tag ' or . = ' Add Tag ')]</value>
+      <webElementGuid>4498c31d-ef31-4829-a570-0cdaad5bae6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

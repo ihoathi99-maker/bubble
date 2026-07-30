@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Article</name>
+   <tag></tag>
+   <elementGuidId>6d2f3e6b-dad4-40fb-ba04-fa6f16d710a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-add-article']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-add-article</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2c499852-7948-40fe-82dd-a7b5ae095998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>brand</value>
+      <webElementGuid>f8073238-bf0a-4bc9-b08a-11fb11e5b2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-add-article</value>
+      <webElementGuid>fc754565-92a8-434d-bb33-280f1e8a92d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-ui-btn   gun-ui-btn-large gun-ui-btn-rounded gun-ui-btn-large-rounded gun-ui-btn-filled gun-ui-btn-filled-primary btn-primary-action </value>
+      <webElementGuid>04d15e07-8072-409a-8abc-486297a8bc93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Article </value>
+      <webElementGuid>3c878dfe-add8-477e-8b88-0d29f470305a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-add-article&quot;)</value>
+      <webElementGuid>8df4cd3b-e329-4c45-bbbf-a960565db6a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-add-article']</value>
+      <webElementGuid>e369fdcc-8ba3-46f7-8b94-ba9819e9a116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News Articles'])[1]/following::button[1]</value>
+      <webElementGuid>ffea99c2-70b5-41f3-8a50-13b3dde3c67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::button[2]</value>
+      <webElementGuid>a1e40e97-671a-443b-8a77-f515d6a47487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Store'])[1]/preceding::button[1]</value>
+      <webElementGuid>7d39d7e3-253d-45ea-a084-a299ff036b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Branch'])[1]/preceding::button[1]</value>
+      <webElementGuid>dd2cbbd4-1c1f-4548-aab3-6ccb67b180ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Article']/parent::*</value>
+      <webElementGuid>dc63a815-f54d-48c4-9e3d-7a976dd1a9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>ed9991f0-509a-4b72-b77a-464d48a622f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-add-article' and (text() = ' Add Article ' or . = ' Add Article ')]</value>
+      <webElementGuid>da3fc42a-8619-4120-8dd3-f0960bead5d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

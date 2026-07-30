@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Send push notification</name>
+   <tag></tag>
+   <elementGuidId>52a4f10d-9734-4917-8ede-fb6cd1b8b10f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='articleForm']/div/div/div/div[3]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.push-noti-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>51ebddbe-e500-420a-9728-9a444f234bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>push-noti-checkbox</value>
+      <webElementGuid>f89cd0e3-1d70-4da4-bf72-4c9a8e829e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Send push notification </value>
+      <webElementGuid>4a277e1b-d31a-4fea-92e6-04078b48a418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/label[@class=&quot;push-noti-checkbox&quot;]</value>
+      <webElementGuid>b30df588-681b-494a-a737-75516df552f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='articleForm']/div/div/div/div[3]/div[2]/label</value>
+      <webElementGuid>ff466cb1-0bb7-45c6-b864-1b23cbd9efa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::label[1]</value>
+      <webElementGuid>319594a0-de79-4ed8-a5f9-45237d5417f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::label[1]</value>
+      <webElementGuid>5537edf6-8ef3-4db8-bf9c-5ac105acf393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::label[1]</value>
+      <webElementGuid>d9d3176c-50e4-40c1-af09-8d8f131e480a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>74e652fe-fc0b-4a28-a905-f6777cc8427b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Send push notification ' or . = ' Send push notification ')]</value>
+      <webElementGuid>4c873ab0-c47d-4187-a244-d4acac00b277</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

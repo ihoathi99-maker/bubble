@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Urgent</name>
+   <tag></tag>
+   <elementGuidId>36e08a2a-a9e2-4f0c-9804-44c6ad43c9aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a9eedcc03930-2']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a9eedcc03930-2 > div.gun-select-label.d-flex.justify-content-between.align-items-center.w-100.gap-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4cb897f6-14ed-47d0-947a-7dc5f7e4213c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-select-label d-flex justify-content-between align-items-center w-100 gap-8</value>
+      <webElementGuid>f5d3439a-c608-44ef-8991-e310b48c1a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Urgent </value>
+      <webElementGuid>2ba60dc2-bf9d-4014-aff0-2c9d6c008e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a9eedcc03930-2&quot;)/div[@class=&quot;gun-select-label d-flex justify-content-between align-items-center w-100 gap-8&quot;]</value>
+      <webElementGuid>7cf1fa9b-5024-4713-9412-4c3b5263c971</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a9eedcc03930-2']/div</value>
+      <webElementGuid>c36ca3ef-968e-43e5-b7dd-06c5989972ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High'])[1]/following::div[2]</value>
+      <webElementGuid>8db0eecb-d605-4b71-8f50-2cf2a3eda51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[2]/following::div[8]</value>
+      <webElementGuid>4d9fdcbd-381f-43e0-b42d-66ae194e021a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>972c0e4d-79c4-4566-b8c3-3265b57d90b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Urgent ' or . = ' Urgent ')]</value>
+      <webElementGuid>5462878a-ec17-45b6-a141-c5e2e4648818</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

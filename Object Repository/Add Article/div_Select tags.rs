@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select tags</name>
+   <tag></tag>
+   <elementGuidId>5958b7da-6ef6-489e-9f43-3f58f07f6eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='articleForm']/div/div/div/div[2]/div[2]/div/gun-form-control/div/app-flat-multi-select/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fms-trigger__body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9306a4e7-3c60-42fe-92f9-82875661b094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fms-trigger__body</value>
+      <webElementGuid>a55c39e1-dcd1-46a9-b584-52d45fffa514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select tags</value>
+      <webElementGuid>aa454370-fd36-433e-954d-532caaa28f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;organization-grid&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/app-flat-multi-select[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;fms-wrapper&quot;]/div[@class=&quot;fms-trigger fms-trigger--lg&quot;]/div[@class=&quot;fms-trigger__body&quot;]</value>
+      <webElementGuid>295d9ac0-fd79-404d-8724-f7090bf2e91b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='articleForm']/div/div/div/div[2]/div[2]/div/gun-form-control/div/app-flat-multi-select/div/div/div</value>
+      <webElementGuid>97edfbe3-fcab-4c3c-a10a-4c02ad8b8a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[1]</value>
+      <webElementGuid>39c01dbe-797d-4971-89c1-47bdd62e83de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branches'])[2]/preceding::div[1]</value>
+      <webElementGuid>771ea284-79f7-4502-a69f-98ef38ff5ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-flat-multi-select/div/div/div</value>
+      <webElementGuid>8da0f7aa-eac2-4f09-a012-362d2c8e82cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select tags' or . = 'Select tags')]</value>
+      <webElementGuid>5117124b-a1df-4821-a066-7af2c914c079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

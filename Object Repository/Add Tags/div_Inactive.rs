@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Inactive</name>
+   <tag></tag>
+   <elementGuidId>a859a8c9-e1f8-4dc7-92f8-c627f9d3235e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a1bc8cf94246-1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a1bc8cf94246-1 > div.gun-select-label.d-flex.justify-content-between.align-items-center.w-100.gap-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49c57b40-a8ab-491c-89c7-769633defb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-select-label d-flex justify-content-between align-items-center w-100 gap-8</value>
+      <webElementGuid>cb85854e-c31e-4781-8140-e47e8f3759c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Inactive </value>
+      <webElementGuid>a413ad95-eb33-46a9-ab81-de102ed22397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a1bc8cf94246-1&quot;)/div[@class=&quot;gun-select-label d-flex justify-content-between align-items-center w-100 gap-8&quot;]</value>
+      <webElementGuid>162e53cb-8d8e-4a83-ae63-d7389d389b55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a1bc8cf94246-1']/div</value>
+      <webElementGuid>d4e8fa97-1ce8-4807-9978-d34a50b5dc2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::div[3]</value>
+      <webElementGuid>a72b2615-db23-4db4-a242-a17bef8835d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::div[12]</value>
+      <webElementGuid>609416c3-5863-4235-b89f-6256e215d7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div[2]/div</value>
+      <webElementGuid>bdeab6e2-b4c2-4f24-984c-a63e07337b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Inactive ' or . = ' Inactive ')]</value>
+      <webElementGuid>dffc8d58-2780-4815-bc2c-b0c1371c7381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

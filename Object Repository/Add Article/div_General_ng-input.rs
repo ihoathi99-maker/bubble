@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_General_ng-input</name>
+   <tag></tag>
+   <elementGuidId>cb7abc6a-5873-4bbb-b04c-c486879c8358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='articleForm']/div/div/div/div[3]/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>192499e9-57ed-4db1-93e4-6084d2f55ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-input</value>
+      <webElementGuid>fcaab18e-9d01-462c-b50e-c92e6e6de3af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/gun-single-select[@class=&quot;gun-select-large ng-untouched ng-pristine ng-valid&quot;]/ng-select[@class=&quot;gun-single-select ng-select ng-select-single ng-select-searchable ng-untouched ng-pristine ng-valid ng-select-top ng-select-opened ng-select-focused&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/div[@class=&quot;ng-value-container&quot;]/div[@class=&quot;ng-input&quot;]</value>
+      <webElementGuid>39e7718b-37fa-41a7-81e0-d95c17d3c014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='articleForm']/div/div/div/div[3]/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      <webElementGuid>c474cdf5-d015-4d5d-9221-66a5f7b9d542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::div[1]</value>
+      <webElementGuid>52de8257-3b2f-4bb3-a2db-4a3436a297f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/following::div[6]</value>
+      <webElementGuid>9c7da6dd-f221-49fe-be5b-6b4ac96e6d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[2]/preceding::div[2]</value>
+      <webElementGuid>d9ed3399-b2ce-4bd8-9565-14b5b758434f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[1]/preceding::div[8]</value>
+      <webElementGuid>7128c273-a289-4bb0-90c2-104a7865328b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-select/div/div/div[3]</value>
+      <webElementGuid>e839dd91-f114-432e-be74-19d54d6acfbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

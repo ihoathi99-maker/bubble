@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Private</name>
+   <tag></tag>
+   <elementGuidId>8c4fe4b8-9512-4538-ae09-86c3e2e3d07c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a909550811cc-1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a909550811cc-1 > div.gun-select-label.d-flex.justify-content-between.align-items-center.w-100.gap-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a13db590-236a-4f56-9c8e-2ba41c1a292e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-select-label d-flex justify-content-between align-items-center w-100 gap-8</value>
+      <webElementGuid>ef0caa38-0701-43ec-a223-6d9b370a1f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Private </value>
+      <webElementGuid>cc1907d6-73ac-4da8-8d4e-297db586af52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a909550811cc-1&quot;)/div[@class=&quot;gun-select-label d-flex justify-content-between align-items-center w-100 gap-8&quot;]</value>
+      <webElementGuid>abf0b88c-06dd-4553-a7dd-66b565079866</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a909550811cc-1']/div</value>
+      <webElementGuid>6bf5e211-00be-4ec5-a33b-a1e0b17bc053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[2]/following::div[3]</value>
+      <webElementGuid>81fd0b9e-a8f5-47c4-a27a-ecf22b29a6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[1]/following::div[12]</value>
+      <webElementGuid>6270463c-d226-487f-b6bb-ceb58bf46e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish Start'])[1]/preceding::div[6]</value>
+      <webElementGuid>a039e56d-5b48-4bfb-899e-0930a871e976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div[2]/div</value>
+      <webElementGuid>896c60e1-d45f-4e2f-9b36-3af13ccdbdbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Private ' or . = ' Private ')]</value>
+      <webElementGuid>7300bc81-25b7-4ce0-8b28-91ef69f303de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

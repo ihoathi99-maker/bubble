@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Normal_ng-input</name>
+   <tag></tag>
+   <elementGuidId>a2bb6e79-0cbe-47b1-8700-637da962e9b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='articleForm']/div/div/div[2]/div[2]/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ng-select.gun-single-select.ng-select.ng-select-single.ng-select-searchable.ng-untouched.ng-pristine.ng-valid.ng-select-bottom.ng-select-opened.ng-select-focused > div.ng-select-container.ng-has-value > div.ng-value-container > div.ng-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61cc4566-77bf-4401-b58a-e130c95bcf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-input</value>
+      <webElementGuid>d0a40208-046f-49d1-95d1-f1ab6ea9b83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-sidebar&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/gun-single-select[@class=&quot;gun-select-large ng-untouched ng-pristine ng-valid&quot;]/ng-select[@class=&quot;gun-single-select ng-select ng-select-single ng-select-searchable ng-untouched ng-pristine ng-valid ng-select-bottom ng-select-opened ng-select-focused&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/div[@class=&quot;ng-value-container&quot;]/div[@class=&quot;ng-input&quot;]</value>
+      <webElementGuid>6eb73b89-00db-4708-90bb-8f67ca938998</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='articleForm']/div/div/div[2]/div[2]/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      <webElementGuid>46ba85c3-d589-427c-b942-2adfcf1f56a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[1]/following::div[1]</value>
+      <webElementGuid>c47554ff-9c93-4e1d-a9c3-902c360cb650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select priority'])[1]/following::div[3]</value>
+      <webElementGuid>82d62ccb-5c27-412f-a9e8-06fce7416d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[2]/preceding::div[2]</value>
+      <webElementGuid>4708c13c-e077-4448-a91f-972538e5c005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High'])[1]/preceding::div[8]</value>
+      <webElementGuid>09c3c7af-ecff-4c1a-b5a6-ca6247142314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      <webElementGuid>8e4ebc96-514d-4fc6-bd9e-139e4a323b85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

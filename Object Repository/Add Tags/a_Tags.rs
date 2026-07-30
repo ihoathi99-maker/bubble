@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tags</name>
+   <tag></tag>
+   <elementGuidId>96238c44-0746-4552-9541-c75d2a6ae37b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@class,'menu-item')][.//text()[normalize-space()='Tags']]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a.sub-menu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59bc71a9-6340-4291-bfbd-636af7559270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>18584f71-ce37-41c7-92df-b84a507301d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-menu-item</value>
+      <webElementGuid>b5e66b88-55c0-4c05-95c8-f3b9c5b090bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/management/news/tags</value>
+      <webElementGuid>b161fe7c-ff34-4c52-b0dc-92e0d99bc29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tags</value>
+      <webElementGuid>13810d0d-511d-4301-8fce-ba6889e68491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-management[1]/div[@class=&quot;management-container&quot;]/app-management-sidebar[1]/nav[@class=&quot;sidebar-container&quot;]/div[@class=&quot;sidebar-sections&quot;]/app-sidebar-section[3]/ul[@class=&quot;section-menu&quot;]/li[@class=&quot;has-children expanded&quot;]/ul[@class=&quot;sub-menu&quot;]/li[2]/a[@class=&quot;sub-menu-item&quot;]</value>
+      <webElementGuid>9258e4c0-7246-49b7-bfc1-0235eb02604f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Articles'])[1]/following::a[1]</value>
+      <webElementGuid>2aa1cb16-101b-4e8e-bf42-40edad991297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::a[2]</value>
+      <webElementGuid>3fcd26cd-95bc-4f04-a3d3-da84043e21be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/preceding::a[1]</value>
+      <webElementGuid>8e73a89a-905e-4048-8c55-b88edf8a0352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/management/news/tags')]</value>
+      <webElementGuid>b5745d72-3fcf-4307-b0a4-b0bdd8b2a50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/a</value>
+      <webElementGuid>2fe87794-ddb7-426c-9236-d783d0dcd6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/management/news/tags' and (text() = 'Tags' or . = 'Tags')]</value>
+      <webElementGuid>a903e5ff-3731-4e66-9de7-4c9bc317bc21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

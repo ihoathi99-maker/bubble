@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save Draft</name>
+   <tag></tag>
+   <elementGuidId>2fe50f71-feed-4b81-95f8-90caaa2f13e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.gun-ui-btn.gun-ui-btn-large.gun-ui-btn-rounded.gun-ui-btn-large-rounded.gun-ui-btn-outlined.gun-ui-btn-outlined-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>52919e7b-2e5d-4f8e-b85e-7bd7dc4a0628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>693946b7-0949-4513-a3a2-8bb3d38822cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>secondary</value>
+      <webElementGuid>93c59f49-e128-4973-8efa-5e0d9bcb25e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>outlined</value>
+      <webElementGuid>aef2d987-7067-4b6c-ba13-af9427d0b535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-ui-btn   gun-ui-btn-large gun-ui-btn-rounded gun-ui-btn-large-rounded gun-ui-btn-outlined gun-ui-btn-outlined-primary  </value>
+      <webElementGuid>e04f9999-c56e-451f-a54f-9e3ea03dbdbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save Draft </value>
+      <webElementGuid>63123c0b-fb0c-4703-8111-396fbf7fdc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-management[1]/div[@class=&quot;management-container&quot;]/div[@class=&quot;management-content&quot;]/app-article-detail[1]/div[@class=&quot;article-detail-wrapper&quot;]/div[@class=&quot;page-header&quot;]/div[@class=&quot;header-actions&quot;]/button[@class=&quot;gun-ui-btn   gun-ui-btn-large gun-ui-btn-rounded gun-ui-btn-large-rounded gun-ui-btn-outlined gun-ui-btn-outlined-primary&quot;]</value>
+      <webElementGuid>80760d02-f32b-47d2-80a2-f712781678f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f67f1790-3aee-4098-9ccd-60264f7f2572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
+      <webElementGuid>d2e93301-ca66-4e81-ad3d-f1a4238397b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Article'])[1]/following::button[2]</value>
+      <webElementGuid>896f922d-63d6-4596-82c3-5b902a1fd482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[1]</value>
+      <webElementGuid>c19f2b3b-46af-4f26-8173-f428e48447bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article Information'])[1]/preceding::button[2]</value>
+      <webElementGuid>0213f8e1-0c3e-4876-bca3-e1463318c71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save Draft']/parent::*</value>
+      <webElementGuid>3135062c-bc52-4790-93cd-6830db75c87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>5affd8aa-4ef9-43b5-9bdf-f916fc8cc3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Save Draft ' or . = ' Save Draft ')]</value>
+      <webElementGuid>9b3d1af5-a3c3-46b8-9672-16ae819e0bfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

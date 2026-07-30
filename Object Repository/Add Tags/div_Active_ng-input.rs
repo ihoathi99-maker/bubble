@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Active_ng-input</name>
+   <tag></tag>
+   <elementGuidId>05d24e5e-96e8-4afb-946b-a5dbabb1ab93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='tagForm']/div/div/div[2]/div/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e04f424c-f195-4bf2-a9eb-628ba59a2ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-input</value>
+      <webElementGuid>61377e9e-925f-42a5-a612-5a617b0b05b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tagForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-sidebar&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/gun-single-select[@class=&quot;gun-select-large ng-pristine ng-valid ng-touched&quot;]/ng-select[@class=&quot;gun-single-select ng-select ng-select-single ng-select-searchable ng-pristine ng-valid ng-touched ng-select-bottom ng-select-opened ng-select-focused&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/div[@class=&quot;ng-value-container&quot;]/div[@class=&quot;ng-input&quot;]</value>
+      <webElementGuid>32e642c1-839e-471a-a73a-57b4e634a46d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='tagForm']/div/div/div[2]/div/div[2]/gun-form-control/div/gun-single-select/ng-select/div/div/div[3]</value>
+      <webElementGuid>351cd6cd-35af-493d-9668-4c1fb5cbc270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::div[1]</value>
+      <webElementGuid>83c6cc26-5d65-4bf0-8987-b6b76d3ead49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::div[6]</value>
+      <webElementGuid>0ec31aea-cee4-47ff-b124-9633879888e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/preceding::div[2]</value>
+      <webElementGuid>101e229b-213c-429e-863c-ecdb5b0648e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[1]/preceding::div[8]</value>
+      <webElementGuid>0fce651e-de9a-4c4c-bfe6-b05f74d9d8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]</value>
+      <webElementGuid>9fa1f832-8260-4c91-b0bf-732b1823347e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

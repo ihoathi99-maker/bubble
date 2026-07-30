@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tournament</name>
+   <tag></tag>
+   <elementGuidId>8d70de85-7f76-4eff-9391-0daaf5073173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ac30a2f22627-2']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ac30a2f22627-2 > div.gun-select-label.d-flex.justify-content-between.align-items-center.w-100.gap-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5de7f27-bf62-48ad-970c-facf1299f02d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gun-select-label d-flex justify-content-between align-items-center w-100 gap-8</value>
+      <webElementGuid>70186803-038e-4418-9480-d1ecae900eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tournament </value>
+      <webElementGuid>e3fcedd7-4c60-4192-8ae6-5bcfd827cbb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ac30a2f22627-2&quot;)/div[@class=&quot;gun-select-label d-flex justify-content-between align-items-center w-100 gap-8&quot;]</value>
+      <webElementGuid>489105e4-4351-4cdb-93c6-2caa6055cf8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ac30a2f22627-2']/div</value>
+      <webElementGuid>f4c08d9b-c3c3-4951-b1b8-0d52f49c78a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[1]/following::div[2]</value>
+      <webElementGuid>47df812f-2f74-4247-8559-048be54030c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[2]/following::div[8]</value>
+      <webElementGuid>91f62f27-fb5b-44ac-a147-e9e8c6a64852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send push notification'])[1]/preceding::div[6]</value>
+      <webElementGuid>2c3e8238-60fd-4653-abd5-fc3d11de29c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>532e5d90-acc9-42a9-b9af-f2aa3ecd072f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Tournament ' or . = ' Tournament ')]</value>
+      <webElementGuid>afac86ce-bc83-428d-97cc-a31bc3330b54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

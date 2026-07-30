@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select branches</name>
+   <tag></tag>
+   <elementGuidId>bb1488ec-3d6e-4403-9062-767abfb66e33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='articleForm']/div/div/div/div[2]/div[2]/div/gun-form-control[2]/div/app-hierarchical-multi-select/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hms-trigger__body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e173dbd2-bb21-484e-9674-212584efd94d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hms-trigger__body</value>
+      <webElementGuid>c2065d35-5fdf-40f5-afb6-90e49137ef45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select branches</value>
+      <webElementGuid>2d8e9a54-516b-4a01-b45c-84003ae87927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;organization-grid&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/app-hierarchical-multi-select[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;hms-wrapper&quot;]/div[@class=&quot;hms-trigger hms-trigger--lg&quot;]/div[@class=&quot;hms-trigger__body&quot;]</value>
+      <webElementGuid>3073e2dc-7a6e-40be-9b1a-bc958fc85eda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='articleForm']/div/div/div/div[2]/div[2]/div/gun-form-control[2]/div/app-hierarchical-multi-select/div/div/div</value>
+      <webElementGuid>2a5da4f0-ebd7-496a-b15b-9b1edc67b5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branches'])[2]/following::div[1]</value>
+      <webElementGuid>3fcc20c0-a829-41c9-acaf-11ba947f9e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::div[4]</value>
+      <webElementGuid>5514a672-6c47-49a5-a8f6-c7326a0f6bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Push notification'])[1]/preceding::div[1]</value>
+      <webElementGuid>56b2deb5-519f-4b31-a54a-b4bbaf1c02a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-hierarchical-multi-select/div/div/div</value>
+      <webElementGuid>885b4be3-9ba0-4f55-98c2-12da6a34ff99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select branches' or . = 'Select branches')]</value>
+      <webElementGuid>6c4928bb-ce4b-4bcb-b7cd-83c58db2d92a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
