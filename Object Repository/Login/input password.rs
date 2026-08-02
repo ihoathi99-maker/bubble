@@ -6,12 +6,11 @@
    <elementGuidId>d200ab4e-b710-458a-b8f0-6cd8aac4ff32</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[1]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>91f389d3-0784-4d41-b523-6468d2ac0eb0</webElementGuid>
+      <webElementGuid>14a525e5-cea9-4ef1-8595-f24963285376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gun-text-field-wrapper d-flex gap-8 align-items-center not-check-submit</value>
-      <webElementGuid>0b3f8897-aa79-4356-a843-ff18ee5c700a</webElementGuid>
+      <webElementGuid>95439a40-197f-41a6-a725-08b4e3cb1a80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-sign-in[1]/div[@class=&quot;sign-in-page&quot;]/div[@class=&quot;form-panel&quot;]/div[@class=&quot;form-panel-inner&quot;]/form[@class=&quot;sign-in-form ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-field anim&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/gun-text-field[@class=&quot;gun-ui gun-ui-extra-large ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;gun-text-field-wrapper d-flex gap-8 align-items-center not-check-submit&quot;]</value>
-      <webElementGuid>50169573-f2bc-43d4-995c-9c5068eb42cf</webElementGuid>
+      <webElementGuid>4ec6e4c8-eb2f-42fe-b19c-59ca60fc30af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[1]</value>
-      <webElementGuid>9c6509d2-9d31-41b2-9fd4-a3abf6c83f44</webElementGuid>
+      <webElementGuid>2b66e045-2ab9-46b0-ad8f-fac45cfaf6d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[6]</value>
-      <webElementGuid>79e3fe5d-64ea-435d-b735-a9928cb8cab6</webElementGuid>
+      <webElementGuid>f5152a48-95ee-4983-8f82-a1ebca58147e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/preceding::div[2]</value>
-      <webElementGuid>05f4e0d6-bfc1-4f96-a3f6-9020c5c6a373</webElementGuid>
+      <webElementGuid>5146f8f1-116c-40a9-84ae-392c5137bf38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::div[2]</value>
-      <webElementGuid>55861118-fbb4-4c12-af18-8351801ff462</webElementGuid>
+      <webElementGuid>7c4679d3-d831-4b70-8ca9-92fae7751225</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/gun-form-control/div/gun-text-field/div</value>
-      <webElementGuid>24e7b6b0-f520-4951-9df6-572b31c6af8b</webElementGuid>
+      <webElementGuid>4bd9c3c6-650e-4c82-8806-403c720502fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

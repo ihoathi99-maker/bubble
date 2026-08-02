@@ -6,12 +6,12 @@
    <elementGuidId>c5e77bc0-ee61-4a4c-8a59-46e7f513236a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>app-branch-current > div.d-flex.align-items-center.gap-4 > svg.chevron</value>
+         <key>XPATH</key>
+         <value>//app-branch-current</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[local-name()='svg' and @class='chevron']</value>
+         <key>CSS</key>
+         <value>app-branch-current > div.d-flex.align-items-center.gap-4 > svg.chevron</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>27d8054f-92ff-4670-bffc-3a08d5b9037c</webElementGuid>
+      <webElementGuid>cc90266d-4c7e-4994-ad0c-3bfe71463f95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>width</name>
       <type>Main</type>
       <value>14</value>
-      <webElementGuid>e60d66a0-e9b9-48ca-8111-ab1bdf01015f</webElementGuid>
+      <webElementGuid>dc58e351-d1a8-4cfe-98b7-1387f03ef308</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>height</name>
       <type>Main</type>
       <value>14</value>
-      <webElementGuid>a56710c2-6f60-468d-85b0-a68488d7b3e4</webElementGuid>
+      <webElementGuid>f727d656-2b8c-4b68-af54-de4091f9b4af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>1d7a0067-b4b3-42fb-8d20-0362aa936c9c</webElementGuid>
+      <webElementGuid>e050b262-1b90-4ebe-8807-f12b68ee22b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>6d9f12dc-d2f3-4352-88ed-47544a0b4e1f</webElementGuid>
+      <webElementGuid>ba8d0249-7b06-4ba0-ae56-fbf6e1f28611</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>06576dc2-7318-40b7-8ac9-132878ef7a5e</webElementGuid>
+      <webElementGuid>aeabb28c-31e9-47fd-a96d-e806de001fe4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>5cde36ba-30db-4a34-a857-8a5bd1543414</webElementGuid>
+      <webElementGuid>3b7ddc43-c0b5-4167-b7df-d0c3bba74d65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>1446f538-a9aa-4bd6-9d7a-79c624dd62c9</webElementGuid>
+      <webElementGuid>200e08ee-c75a-4a9e-8572-628585a3ac79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>stroke-linejoin</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>5eb08579-5aa4-4d7b-9d5b-88d9a0c1c4cd</webElementGuid>
+      <webElementGuid>2a38010c-400f-4477-9f41-a421675ed7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chevron</value>
-      <webElementGuid>3ce287cb-1be5-4560-8f51-af9c855bf8ae</webElementGuid>
+      <webElementGuid>a420137f-27e9-4248-be8a-096744b05cf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-dashboard[1]/app-header-dashboard[1]/header[@class=&quot;header-container&quot;]/div[@class=&quot;header-left&quot;]/app-branch-switcher[1]/div[@class=&quot;left-header&quot;]/div[@class=&quot;container-header-item&quot;]/app-branch-current[1]/div[@class=&quot;d-flex align-items-center gap-4&quot;]/svg[@class=&quot;chevron&quot;]</value>
-      <webElementGuid>507cd4f7-e957-48c1-8241-6887ad9dffdc</webElementGuid>
+      <webElementGuid>f3b6b7a6-3b0b-4a4f-b414-77efcc6240ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='qc test'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>00bddb8e-47f0-4d01-93a5-2c58485adfc6</webElementGuid>
+      <webElementGuid>681aa3a4-bcfa-4b58-b9c6-fcc2004b43cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bubble Pocker'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>67550eb6-69c7-4f39-aa49-87ec9b374725</webElementGuid>
+      <webElementGuid>6038c5bc-58b6-45b0-b2a9-c13fe104c9d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>0dbd835a-7d55-40d7-9ef5-832b5bffd83a</webElementGuid>
+      <webElementGuid>ebca618e-1f09-4444-be46-56fe8006e21c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JA'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>19742367-4117-42cd-8564-11d6c7a5a7ea</webElementGuid>
+      <webElementGuid>82a07b8f-0d45-47d6-8852-a168724187dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

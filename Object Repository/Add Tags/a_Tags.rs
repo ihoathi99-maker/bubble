@@ -6,12 +6,12 @@
    <elementGuidId>96238c44-0746-4552-9541-c75d2a6ae37b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(@class,'menu-item')][.//text()[normalize-space()='Tags']]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li:nth-of-type(2) > a.sub-menu-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='/management/news/tags']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>59bc71a9-6340-4291-bfbd-636af7559270</webElementGuid>
+      <webElementGuid>850f413b-4469-4c00-ab23-911fbf3f7b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>18584f71-ce37-41c7-92df-b84a507301d8</webElementGuid>
+      <webElementGuid>10fb30f3-cc50-4689-8775-ec04faa82a1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sub-menu-item</value>
-      <webElementGuid>b5e66b88-55c0-4c05-95c8-f3b9c5b090bc</webElementGuid>
+      <webElementGuid>204a7185-6e44-4a92-b4ce-24753cbc4e45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/management/news/tags</value>
-      <webElementGuid>b161fe7c-ff34-4c52-b0dc-92e0d99bc29c</webElementGuid>
+      <webElementGuid>d15aca45-4903-4c2c-9001-e0d9e30337f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tags</value>
-      <webElementGuid>13810d0d-511d-4301-8fce-ba6889e68491</webElementGuid>
+      <webElementGuid>7389299f-4175-4d61-9e82-9e368a0d5524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-management[1]/div[@class=&quot;management-container&quot;]/app-management-sidebar[1]/nav[@class=&quot;sidebar-container&quot;]/div[@class=&quot;sidebar-sections&quot;]/app-sidebar-section[3]/ul[@class=&quot;section-menu&quot;]/li[@class=&quot;has-children expanded&quot;]/ul[@class=&quot;sub-menu&quot;]/li[2]/a[@class=&quot;sub-menu-item&quot;]</value>
-      <webElementGuid>9258e4c0-7246-49b7-bfc1-0235eb02604f</webElementGuid>
+      <webElementGuid>ab489821-00dd-4521-b4e6-3200e2b417a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Articles'])[1]/following::a[1]</value>
-      <webElementGuid>2aa1cb16-101b-4e8e-bf42-40edad991297</webElementGuid>
+      <webElementGuid>5c8b13bc-4329-4b6b-af66-263fcbf19302</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::a[2]</value>
-      <webElementGuid>3fcd26cd-95bc-4f04-a3d3-da84043e21be</webElementGuid>
+      <webElementGuid>b462a3ac-d508-493b-9e12-fe2edc0d4f51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/preceding::a[1]</value>
-      <webElementGuid>8e73a89a-905e-4048-8c55-b88edf8a0352</webElementGuid>
+      <webElementGuid>1216abe8-0ddd-4a39-9003-59e31648e74e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/management/news/tags')]</value>
-      <webElementGuid>b5745d72-3fcf-4307-b0a4-b0bdd8b2a50b</webElementGuid>
+      <webElementGuid>fb0fb233-f9f7-442f-b032-18c3fd394f93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[2]/a</value>
-      <webElementGuid>2fe87794-ddb7-426c-9236-d783d0dcd6eb</webElementGuid>
+      <webElementGuid>6bad67eb-229b-416e-a3fe-b141c8f04dc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/management/news/tags' and (text() = 'Tags' or . = 'Tags')]</value>
-      <webElementGuid>a903e5ff-3731-4e66-9de7-4c9bc317bc21</webElementGuid>
+      <webElementGuid>df06cfee-c365-4e4b-9656-e93924b00299</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

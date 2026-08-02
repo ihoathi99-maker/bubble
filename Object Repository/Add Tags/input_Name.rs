@@ -6,12 +6,12 @@
    <elementGuidId>7fe2cb25-50ad-4665-90f5-d793257ffd8c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='6df64c21-76f4-4527-a096-061973b711a5']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#6df64c21-76f4-4527-a096-061973b711a5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//gun-text-field[@formcontrolname='name']//input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54cc52bf-6d72-4028-b0bb-f0c41a342fb7</webElementGuid>
+      <webElementGuid>c75d019d-8213-4c22-92c7-f224f62079ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gun-ui-text-field empty not-check-submit ng-untouched ng-pristine ng-valid ng-touched</value>
-      <webElementGuid>61a455bf-60e1-4780-bc21-2898c6eede82</webElementGuid>
+      <webElementGuid>80d5521b-0bcb-44dc-9eb0-8278bbc58ecf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>6df64c21-76f4-4527-a096-061973b711a5</value>
-      <webElementGuid>8aa873ea-cb05-4987-9f41-e98bd56eff1b</webElementGuid>
+      <webElementGuid>07a0e286-1e57-455d-b89e-8133838e9ceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter tag name</value>
-      <webElementGuid>0cef375c-4c08-4269-8777-650619835b70</webElementGuid>
+      <webElementGuid>8ea0a594-5863-48a2-beb6-51ebca36eca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a16e43e2-e4d6-461f-9284-b569b67bd0f5</webElementGuid>
+      <webElementGuid>a5f2dd5f-de3f-499c-9c57-ec5200556143</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>abb5b850-4e72-486f-980a-23ad421784d4</webElementGuid>
+      <webElementGuid>ddaa2e6d-46c6-421a-b99b-4c4158b6bdf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-e2e</name>
       <type>Main</type>
       <value>text-input</value>
-      <webElementGuid>4a984133-c0b9-42ba-a774-bf0227971757</webElementGuid>
+      <webElementGuid>d5a33471-91f1-4646-be9c-6dae65788805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;6df64c21-76f4-4527-a096-061973b711a5&quot;)</value>
-      <webElementGuid>4aeeb413-3ca1-4117-87dc-ea40562e3afe</webElementGuid>
+      <webElementGuid>85915370-62c4-4df5-9cc1-ce5ca4ef8ebe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='6df64c21-76f4-4527-a096-061973b711a5']</value>
-      <webElementGuid>9c07f07f-ed10-4d0e-b35d-02731a8dd6a0</webElementGuid>
+      <webElementGuid>19480782-68ec-46dd-953e-776ca873ab3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='tagForm']/div/div/div/div/div[2]/gun-form-control/div/gun-text-field/div/input</value>
-      <webElementGuid>29a14bd7-6390-4e36-901a-713a91340b0c</webElementGuid>
+      <webElementGuid>72d7b46a-20c8-457f-b265-cc2a7ddab0c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>a3e4f93d-3549-4246-92d4-0a23e0c21afa</webElementGuid>
+      <webElementGuid>6d894fe8-f9c1-4f91-b2f3-2aa950e82b95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '6df64c21-76f4-4527-a096-061973b711a5' and @placeholder = 'Enter tag name' and @type = 'text']</value>
-      <webElementGuid>bcf8328e-5e98-402f-8fab-84ad43b37944</webElementGuid>
+      <webElementGuid>3a7268ac-3f43-4840-9897-506c5d4a4258</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

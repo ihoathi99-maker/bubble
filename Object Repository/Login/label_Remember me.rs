@@ -6,12 +6,12 @@
    <elementGuidId>ba74d5b9-6eac-4cd4-b58a-e7ffc3f4ef39</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>label.gun-checkbox.border-rad-6.d-flex.align-items-center.gap-4.cursor-pointer.m-0</value>
+         <key>XPATH</key>
+         <value>//gun-checkbox[@formcontrolname='remember']//label</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::label[1]</value>
+         <key>CSS</key>
+         <value>label.gun-checkbox.border-rad-6.d-flex.align-items-center.gap-4.cursor-pointer.m-0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>98b38c20-9996-4753-8f19-528d775ee186</webElementGuid>
+      <webElementGuid>94951b06-7de3-40e8-bde8-5aca02ab54f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>e2eid</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>3af7906f-5f7f-4bf4-85ec-996508eadbf9</webElementGuid>
+      <webElementGuid>7e2d04f5-4c19-419a-a892-016626ba1692</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gun-checkbox border-rad-6 d-flex align-items-center gap-4 cursor-pointer m-0</value>
-      <webElementGuid>14f6ab98-b5ac-4350-9e07-a9f7f3455e22</webElementGuid>
+      <webElementGuid>b3e1ae36-b823-45d2-990a-603022697089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>for</name>
       <type>Main</type>
       <value>cb-d6d2c96c-98b5-49ec-a6d6-940c9b222196</value>
-      <webElementGuid>00fb1517-09e9-4579-86f5-5368354941b0</webElementGuid>
+      <webElementGuid>41a490d1-98be-4cb7-802d-c68383c6055d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>data-e2e</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>e64aab18-da27-4930-849d-79e2c5595af9</webElementGuid>
+      <webElementGuid>0bb954e2-7328-47bc-8913-07f1041f0856</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Remember me</value>
-      <webElementGuid>a4930f50-a894-4b30-91d0-d3dd19e51584</webElementGuid>
+      <webElementGuid>09250158-988e-4d0c-83cd-c1d28e3893fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-sign-in[1]/div[@class=&quot;sign-in-page&quot;]/div[@class=&quot;form-panel&quot;]/div[@class=&quot;form-panel-inner&quot;]/form[@class=&quot;sign-in-form ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-options anim&quot;]/gun-checkbox[@class=&quot;gun-checkbox-square ng-untouched ng-pristine ng-valid&quot;]/label[@class=&quot;gun-checkbox border-rad-6 d-flex align-items-center gap-4 cursor-pointer m-0&quot;]</value>
-      <webElementGuid>7d4907c7-ffb8-42d6-ac1a-2241b494d08b</webElementGuid>
+      <webElementGuid>65d733e4-fc91-4d83-a245-06e00577bc0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::label[1]</value>
-      <webElementGuid>7f9a7b46-fea2-4e3b-8c50-8a79baffb72a</webElementGuid>
+      <webElementGuid>65d609be-1c75-46be-bdb9-9ed184842261</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::label[2]</value>
-      <webElementGuid>5c74e172-ac2e-4816-b368-0563a4f0d19c</webElementGuid>
+      <webElementGuid>2c0bfe09-bd5c-403f-8254-61be7c72db95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::label[1]</value>
-      <webElementGuid>9f7c1289-091f-4437-873d-d399c94b095f</webElementGuid>
+      <webElementGuid>566fd4a4-98e4-486a-b16a-b01a4e36c0aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//gun-checkbox/label</value>
-      <webElementGuid>f361e926-9223-4291-88b4-962d36dfd212</webElementGuid>
+      <webElementGuid>3fe93223-7b5e-4fa3-a35a-a93ba5a357f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Remember me' or . = 'Remember me')]</value>
-      <webElementGuid>484001e8-fc28-47aa-8911-e3c3f23e0e0e</webElementGuid>
+      <webElementGuid>d6a94778-35b3-488c-ac01-df1343ab871a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

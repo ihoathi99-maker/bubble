@@ -6,12 +6,12 @@
    <elementGuidId>1e367de1-e79a-48ec-9475-dd588fadea9d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='68b8b089-6ae5-4959-8097-4bf13be333a9']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#68b8b089-6ae5-4959-8097-4bf13be333a9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//gun-text-field[@formcontrolname='slug']//input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b2ef5481-9dce-4c31-a3c3-c22630db202b</webElementGuid>
+      <webElementGuid>13e7ce4d-84dd-45ca-87f5-5b575471bfc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gun-ui-text-field empty not-check-submit ng-untouched ng-pristine ng-valid ng-touched</value>
-      <webElementGuid>12b96c54-adb2-40e3-8900-844ea32ba3b2</webElementGuid>
+      <webElementGuid>b0b7a37f-80c3-4119-a31e-4b8bcfc284a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>68b8b089-6ae5-4959-8097-4bf13be333a9</value>
-      <webElementGuid>2d4b19cd-8cd5-4d51-9178-2d745674c8e2</webElementGuid>
+      <webElementGuid>ffe2d23e-1392-4a46-8076-efb8698288ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter tag slug</value>
-      <webElementGuid>03b92d4d-6c50-45ae-85b1-9690733f1b15</webElementGuid>
+      <webElementGuid>abd1c5b9-ac40-4130-8b20-c8184e3228e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>132f68c2-1e52-417a-b984-493d96beb98e</webElementGuid>
+      <webElementGuid>3985b947-f3ca-4395-81a4-5b07880aaed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>017f2436-0c21-472e-afa6-53e35e6e2ece</webElementGuid>
+      <webElementGuid>008bee41-100d-4df1-9ae9-51a4fc9b1648</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-e2e</name>
       <type>Main</type>
       <value>text-input</value>
-      <webElementGuid>7c8aeba0-6fe7-4884-a82d-6d19ab07dfab</webElementGuid>
+      <webElementGuid>993e4da4-0582-428a-981b-fed6d9020618</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;68b8b089-6ae5-4959-8097-4bf13be333a9&quot;)</value>
-      <webElementGuid>8f798700-ab1b-4e31-b0db-8650063cfe6a</webElementGuid>
+      <webElementGuid>bc78b08d-873a-42a5-8ea5-56342c401583</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='68b8b089-6ae5-4959-8097-4bf13be333a9']</value>
-      <webElementGuid>2099933c-f87d-41dd-be4c-16af22ff71c6</webElementGuid>
+      <webElementGuid>faafc482-fdaa-4cf1-b9b6-b929f163132d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='tagForm']/div/div/div/div/div[2]/gun-form-control[2]/div/gun-text-field/div/input</value>
-      <webElementGuid>1ce315c6-7285-4684-b6a1-2561cd2abe21</webElementGuid>
+      <webElementGuid>e5a3a20e-b1b7-4f7e-9e8b-faa12dd4a004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//gun-form-control[2]/div/gun-text-field/div/input</value>
-      <webElementGuid>a2397b76-8255-457a-9d0e-6d5d00c23dc0</webElementGuid>
+      <webElementGuid>ea703389-875a-4572-91d6-31707146f691</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '68b8b089-6ae5-4959-8097-4bf13be333a9' and @placeholder = 'Enter tag slug' and @type = 'text']</value>
-      <webElementGuid>bb204bb5-0e04-4bc3-bf0e-0dc0c12a6f33</webElementGuid>
+      <webElementGuid>36780749-6dd5-4456-bfb3-7b9646cf7db0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

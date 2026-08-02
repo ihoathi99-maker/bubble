@@ -3,7 +3,7 @@
    <description></description>
    <name>a_News</name>
    <tag></tag>
-   <elementGuidId>e8004d26-c0d7-4010-8fb5-d234c5cc6b72</elementGuidId>
+   <elementGuidId>56472cec-0bbf-4189-9652-3885b59f2c55</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,19 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(@class,'menu-item')][.//text()[normalize-space()='News']]</value>
+         <value>(//p[@class='section-label'])[2]/following-sibling::ul[@class='section-menu'][1]/li[contains(@class,'has-children')][1]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'javascript:void(0)' and (text() = '
+
+ニュース
+
+' or . = '
+
+ニュース
+
+')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +35,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>55ee0614-4f1d-4f8a-8659-d056727c534f</webElementGuid>
+      <webElementGuid>f4a765b9-c0e4-4c6f-ab33-10d397533fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +43,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>8688e2b8-f420-4f95-bf9a-90578a1c67ca</webElementGuid>
+      <webElementGuid>9658f4b4-1c92-497f-bbfb-8904e61abfef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +51,7 @@
       <name>nztooltipplacement</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>851fb29f-9222-45bd-9434-a60910dfce42</webElementGuid>
+      <webElementGuid>1479dd37-01b0-43e0-adab-12ca82157b54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +59,7 @@
       <name>nztrigger</name>
       <type>Main</type>
       <value>hover</value>
-      <webElementGuid>ebb1b85f-abea-444a-8c3a-f3067ad15eda</webElementGuid>
+      <webElementGuid>44e77221-5669-47c1-a631-e574e4e2a129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +67,7 @@
       <name>nzplacement</name>
       <type>Main</type>
       <value>bottomRight</value>
-      <webElementGuid>d27a40d5-7676-4bf4-a711-92e8625533e6</webElementGuid>
+      <webElementGuid>e7d25ff2-4893-4674-821d-c0bbdc243327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +75,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>8bcaf5a6-b730-4579-846b-f5e21eaff477</webElementGuid>
+      <webElementGuid>1d05db91-8ea4-47bc-a983-718cbb67c46f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +83,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f54df9e-aae3-4f52-8deb-82cf9475f7c6</webElementGuid>
+      <webElementGuid>1d50d93e-cf78-44c3-9d41-53fb2a3b8bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +91,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-dropdown-trigger ant-dropdown-link menu-item</value>
-      <webElementGuid>05f69629-514e-4e4d-9f7c-79f4585397cc</webElementGuid>
+      <webElementGuid>e4150dff-bebf-4219-9692-9a4af7e92dce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -88,10 +100,10 @@
       <type>Main</type>
       <value>
 
-News
+ニュース
 
 </value>
-      <webElementGuid>79b9735d-eb9f-4b0f-b50a-a9d2c8d596b5</webElementGuid>
+      <webElementGuid>a5dbc92b-9d45-4223-b245-ee1deaf365e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,31 +111,31 @@ News
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-management[1]/div[@class=&quot;management-container&quot;]/app-management-sidebar[1]/nav[@class=&quot;sidebar-container&quot;]/div[@class=&quot;sidebar-sections&quot;]/app-sidebar-section[3]/ul[@class=&quot;section-menu&quot;]/li[@class=&quot;has-children&quot;]/a[@class=&quot;ant-dropdown-trigger ant-dropdown-link menu-item&quot;]</value>
-      <webElementGuid>b09fa7ca-c43b-4fcf-9baa-9ce7f63d48ef</webElementGuid>
+      <webElementGuid>5d6e7ac5-6fbd-47c2-ab08-3d46be2f902e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tournaments'])[1]/following::a[1]</value>
-      <webElementGuid>3ed1801c-37ef-4382-94bf-22fb27f493e9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='トーナメント'])[1]/following::a[1]</value>
+      <webElementGuid>3b6fad3c-d421-48a0-9d91-b4cd4cf478e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branches'])[1]/following::a[2]</value>
-      <webElementGuid>a7584985-fe74-4d9a-be57-fb489910160d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='支店'])[1]/following::a[2]</value>
+      <webElementGuid>87f62fe2-2097-4035-b91d-a4bf39a9d471</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[1]/preceding::a[1]</value>
-      <webElementGuid>330d6c48-0da9-4f0b-a5db-396e24cba640</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='お問い合わせ'])[1]/preceding::a[1]</value>
+      <webElementGuid>37ab1ef0-a459-425c-93b8-bf244c5bcd94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +143,7 @@ News
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
-      <webElementGuid>d3a2589b-a1be-4dad-8500-1c1c4856c596</webElementGuid>
+      <webElementGuid>3d2e9bdf-1878-4252-8b1c-3f3a913a79cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,22 +151,14 @@ News
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-sidebar-section[3]/ul/li/a</value>
-      <webElementGuid>4f7db5b0-0e44-44e1-b6d9-498fd18fd333</webElementGuid>
+      <webElementGuid>bca977d9-64fb-40c1-8013-94b9235fcc29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0)' and (text() = '
-
-News
-
-' or . = '
-
-News
-
-')]</value>
-      <webElementGuid>02a99537-2c33-4e5e-98b9-dadd03179446</webElementGuid>
+      <value>//a[contains(@class,'menu-item')][following-sibling::ul[contains(@class,'sub-menu')]//a[contains(@href,'/management/news')]]</value>
+      <webElementGuid>4bbe42dc-723c-4493-824c-bcf90a97fcf0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

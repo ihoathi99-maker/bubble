@@ -6,11 +6,12 @@
    <UUID>ba505c82-f72e-4ec4-8d1e-f10c4e00688b</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>11.3.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.3.0</modifiedVersion>
+   <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\LENOVO\Katalon Studio\Bubble\Bubble.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
