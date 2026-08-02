@@ -17,24 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'mở dropdown submenu'
-WebUI.click(findTestObject('Management/a_News'))
-
-WebUI.waitForAlert(1, FailureHandling.STOP_ON_FAILURE)
-
-'Mở tags'
-WebUI.click(findTestObject('Add Tags/a_Tags'))
-
-'Click button Add Tag'
-WebUI.click(findTestObject('Add Tags/button_Add Tag'))
-
-WebUI.setText(findTestObject('Add Tags/input_Name'), 'Category 20')
-
-WebUI.setText(findTestObject('Add Tags/input_Slug'), 'category 20')
-
-WebUI.setText(findTestObject('Add Tags/input_color'), '#660000')
-
-WebUI.setText(findTestObject('Add Tags/input_Lable color'), '#faf2f2')
-
 WebUI.click(findTestObject('Add Tags/button_Save'))
+
+'Không nhập thông tin gì và nhấn Cancel'
+WebUI.click(findTestObject('Add Tags/button_Cancel'))
 

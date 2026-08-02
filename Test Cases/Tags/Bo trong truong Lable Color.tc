@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Bo trong truong Lable Color</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>37f69b48-8da9-420f-9e4d-9261be1b2556</testCaseGuid>
+   <testCaseGuid>67586833-a3a4-4e42-a777-029583e17922</testCaseGuid>
 </TestCaseEntity>
