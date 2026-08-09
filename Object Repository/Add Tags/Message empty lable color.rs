@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Message empty lable color</name>
+   <tag></tag>
+   <elementGuidId>f91fde6a-244c-47a8-b0a0-a6655edfaaf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='error-text'])[4] </value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d00cfa1e-908a-445a-9839-c7e20a84a840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-text</value>
+      <webElementGuid>082a7f18-672a-4b66-99ad-f56198d18553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ラベル色を入力してください。</value>
+      <webElementGuid>cdeff7a8-c38f-485e-9b5f-c4cfc13680ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tagForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;color-picker-container&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/div[@class=&quot;error-container d-flex align-items-start gap-4&quot;]/div[@class=&quot;error-text&quot;]</value>
+      <webElementGuid>cc23c3f5-1e3a-4eec-a000-e11511fd5090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='tagForm']/div/div/div/div[2]/div[2]/div/gun-form-control[2]/div/div[3]/div</value>
+      <webElementGuid>dfe3f578-df35-4cc3-9b56-315c109e4ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[7]</value>
+      <webElementGuid>8b5f141f-8ef2-4a81-af62-c16afedbbdab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ステータス'])[1]/preceding::div[3]</value>
+      <webElementGuid>a6f71b46-d70e-47bc-8079-26f62f0abed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ステータス'])[2]/preceding::div[4]</value>
+      <webElementGuid>1b73314f-e223-49a6-a0ab-c9cca1a099f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ラベル色を入力してください。']/parent::*</value>
+      <webElementGuid>b7fd939d-7eae-4778-9eae-93698a27110e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gun-form-control[2]/div/div[3]/div</value>
+      <webElementGuid>7af466c4-e72b-40e6-8ea5-d9ed05a6c26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ラベル色を入力してください。' or . = 'ラベル色を入力してください。')]</value>
+      <webElementGuid>b1736af6-4d56-4d1f-9d13-215de78a34e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

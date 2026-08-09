@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Message empty slug</name>
+   <tag></tag>
+   <elementGuidId>273c1f8e-0887-4cbc-a1b8-e6f169c8127d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='error-text'])[2] </value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d608405-5f00-4ec4-8115-394358ae1525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-text</value>
+      <webElementGuid>7beef9ea-4cca-4620-8efd-81b071e0d17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>スラッグを入力してください。</value>
+      <webElementGuid>e409b666-fd69-4107-92a6-bd0e2445a474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tagForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/div[@class=&quot;error-container d-flex align-items-start gap-4&quot;]/div[@class=&quot;error-text&quot;]</value>
+      <webElementGuid>8e66ab0f-a243-4b1d-8172-7e9d9d1a2611</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='tagForm']/div/div/div/div/div[2]/gun-form-control[2]/div/div/div</value>
+      <webElementGuid>be612c4a-6260-4396-93eb-16b9ba689fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='スラッグ'])[1]/following::div[4]</value>
+      <webElementGuid>25019232-7664-4608-b148-7fb53bd00a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='タグ名を入力してください。'])[1]/following::div[5]</value>
+      <webElementGuid>91999ed4-38dd-4c2f-bc34-f1d1772ddad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='表示設定'])[1]/preceding::div[1]</value>
+      <webElementGuid>11b3b9f6-ba6a-4172-aaea-ff9b22d3120a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='スラッグを入力してください。']/parent::*</value>
+      <webElementGuid>c465cda0-cd6e-4152-a74a-74abc222e55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gun-form-control[2]/div/div/div</value>
+      <webElementGuid>4d9a38a7-2641-4d61-9b36-19937b4fbd47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'スラッグを入力してください。' or . = 'スラッグを入力してください。')]</value>
+      <webElementGuid>d40e90c8-cf60-47f5-a2a4-26148414fcc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

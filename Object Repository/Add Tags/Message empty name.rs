@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Message empty name</name>
+   <tag></tag>
+   <elementGuidId>e43f1098-40d8-4032-8ff3-6e91bfea7717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='error-text'])[1] </value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ace794b0-4d4a-4b7d-b5e0-b3a869ede82f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-text</value>
+      <webElementGuid>27374a57-8300-4664-a2b2-4cb22ec58fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>タグ名を入力してください。</value>
+      <webElementGuid>c020f077-c077-4e4a-8a6e-345dc51dfd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tagForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/div[@class=&quot;error-container d-flex align-items-start gap-4&quot;]/div[@class=&quot;error-text&quot;]</value>
+      <webElementGuid>9d9c14cf-770c-4299-b219-3773572a5bef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='tagForm']/div/div/div/div/div[2]/gun-form-control/div/div/div</value>
+      <webElementGuid>55f986a3-b188-425e-ab72-3bba2c58cfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='タグ名'])[1]/following::div[4]</value>
+      <webElementGuid>99f56956-0058-409f-9561-a954aaec727f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='タグ情報'])[1]/following::div[6]</value>
+      <webElementGuid>4b063447-9a9d-4d69-b070-0e8e94dd093c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='スラッグ'])[1]/preceding::div[1]</value>
+      <webElementGuid>14350c49-19f3-48e1-8075-5afb33e1a2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='スラッグを入力してください。'])[1]/preceding::div[3]</value>
+      <webElementGuid>521dc62c-9f29-469f-8d15-2799b1ccebab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='タグ名を入力してください。']/parent::*</value>
+      <webElementGuid>ce498c73-4efb-4be6-9904-243ae5a3d74a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gun-form-control/div/div/div</value>
+      <webElementGuid>9993e279-f8b1-4b9b-a544-f19e402a65dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'タグ名を入力してください。' or . = 'タグ名を入力してください。')]</value>
+      <webElementGuid>530ee482-016f-4d6c-ae73-91947fd1afe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

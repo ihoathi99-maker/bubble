@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Mở sub menu'
-WebUI.click(findTestObject('Management/a_News'))
+WebUI.click(findTestObject('Management/a_News_JA'))
 
 'Mở trang tag'
 WebUI.click(findTestObject('Add Tags/a_Tags'))
