@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Bo trong tat ca cac truong bat buoc va nhan Save_Cancel</name>
+   <name>Verify add tag success</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>cc60f894-3877-486b-91ed-27bd3025949d</testCaseGuid>
+   <testCaseGuid>8e5ad036-8968-4c0b-aa28-bb3211bf67d9</testCaseGuid>
 </TestCaseEntity>

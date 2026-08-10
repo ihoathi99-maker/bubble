@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Message empty name</name>
+   <name>Message name</name>
    <tag></tag>
    <elementGuidId>e43f1098-40d8-4032-8ff3-6e91bfea7717</elementGuidId>
    <selectorCollection>
@@ -50,7 +50,7 @@
       <webElementGuid>9d9c14cf-770c-4299-b219-3773572a5bef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

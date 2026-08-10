@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Add tag success</name>
+   <name>Verify field Slug empty</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8e5ad036-8968-4c0b-aa28-bb3211bf67d9</testCaseGuid>
+   <testCaseGuid>181d350a-0c02-4a01-be30-78d3dc572a88</testCaseGuid>
 </TestCaseEntity>

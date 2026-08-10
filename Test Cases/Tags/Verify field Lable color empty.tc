@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Bo trong truong Color</name>
+   <name>Verify field Lable color empty</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8620de0b-4249-4e04-9475-bd109ff6788e</testCaseGuid>
+   <testCaseGuid>67586833-a3a4-4e42-a777-029583e17922</testCaseGuid>
 </TestCaseEntity>

@@ -17,12 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Add Tags/input_Name'), '')
+WebUI.click(findTestObject('Add Tags/button_Save'))
 
-'Bỏ trống trường Slug'
-WebUI.setText(findTestObject('Add Tags/input_Slug'), '')
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message name'), 5)
 
-WebUI.setText(findTestObject('Add Tags/input_color'), '')
+WebUI.verifyElementText(findTestObject('Add Tags/Message name'), 'タグ名を入力してください。')
 
-WebUI.setText(findTestObject('Add Tags/input_Lable color'), '')
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message slug'), 5)
+
+WebUI.verifyElementText(findTestObject('Add Tags/Message slug'), 'スラッグを入力してください。')
+
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message empty color'), 5)
+
+WebUI.verifyElementText(findTestObject('Add Tags/Message empty color'), '表示色を入力してください。')
+
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message empty lable color'), 5)
+
+WebUI.verifyElementText(findTestObject('Add Tags/Message empty lable color'), 'ラベル色を入力してください。')
+
+WebUI.click(findTestObject('Add Tags/button_Cancel'))
 

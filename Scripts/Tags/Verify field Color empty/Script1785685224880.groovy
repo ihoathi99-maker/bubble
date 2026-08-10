@@ -17,12 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Add Tags/input_Name'), '')
+// 1. Mở trang thêm tag
+// 2. Bỏ trống タグ名, chỉ nhập các field khác
+WebUI.setText(findTestObject('Add Tags/input_Name'), 'Tag 134')
 
-WebUI.setText(findTestObject('Add Tags/input_Slug'), '')
+WebUI.setText(findTestObject('Add Tags/input_Slug'), 'test-slug')
 
-'Bỏ trống trường Color'
+'Bỏ trống trường color'
 WebUI.setText(findTestObject('Add Tags/input_color'), '')
 
-WebUI.setText(findTestObject('Add Tags/input_color'), '')
+WebUI.setText(findTestObject('Add Tags/input_Lable color'), '#000000')
+
+// 3. Bấm nút 保存
+WebUI.click(findTestObject('Add Tags/button_Save'))
+
+// 4. Verify hiển thị message lỗi required cho タグ名
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message empty color'), 5)
+
+WebUI.verifyElementText(findTestObject('Add Tags/Message empty color'), '表示色を入力してください。')
+
+// 5. Verify KHÔNG bị redirect (vẫn ở trang thêm tag - lưu thất bại)
+WebUI.verifyElementPresent(findTestObject('Add Tags/button_Save'), 3)
+
+WebUI.closeBrowser()
 

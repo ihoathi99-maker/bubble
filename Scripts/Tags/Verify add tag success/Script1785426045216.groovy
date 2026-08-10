@@ -17,12 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'Bỏ trống trường Name'
-WebUI.setText(findTestObject('Add Tags/input_Name'), '')
+WebUI.setText(findTestObject('Add Tags/input_Name'), 'Category 20')
 
-WebUI.setText(findTestObject('Add Tags/input_Slug'), 'Slug 1')
+WebUI.setText(findTestObject('Add Tags/input_Slug'), 'category 20')
 
-WebUI.setText(findTestObject('Add Tags/input_color'), '')
+WebUI.setText(findTestObject('Add Tags/input_color'), '#660000')
 
-WebUI.setText(findTestObject('Add Tags/input_Lable color'), '')
+WebUI.setText(findTestObject('Add Tags/input_Lable color'), '#faf2f2')
+
+WebUI.click(findTestObject('Add Tags/button_Save'))
+
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message success'), 5)
+
+WebUI.verifyElementText(findTestObject('Add Tags/Message success'), 'タグを更新しました。')
 
