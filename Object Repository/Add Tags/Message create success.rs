@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Message success</name>
+   <name>Message create success</name>
    <tag></tag>
    <elementGuidId>32800c8f-a7ec-47f7-9caa-f31157780fcc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[text()=&quot;ニタグを更新しました。&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.ng-arrow-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'ant-message-success')]//span[contains(text(),'タグを作成しました。')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d3d65800-b1ba-491c-9d02-12b1d13ecc16</webElementGuid>
+      <webElementGuid>a7b8e606-ee79-42b0-ad29-a8ae27459baf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-arrow-wrapper</value>
-      <webElementGuid>42d4caaf-34f6-4168-beb2-7f5a8000c28f</webElementGuid>
+      <webElementGuid>bc834cc8-4c78-4ac4-af2b-0913dd76684a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tagForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-sidebar&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/gun-single-select[@class=&quot;gun-select-large ng-pristine ng-valid ng-touched&quot;]/ng-select[@class=&quot;gun-single-select ng-select ng-select-single ng-select-searchable ng-pristine ng-valid ng-touched ng-select-bottom ng-select-focused&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
-      <webElementGuid>a45ff3d6-635f-4a24-9e12-19d89481f8ee</webElementGuid>
+      <webElementGuid>11b467a3-7f97-4c0c-a619-1a83c6e48de9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='tagForm']/div/div/div[2]/div/div[2]/gun-form-control/div/gun-single-select/ng-select/div/span</value>
-      <webElementGuid>fb5533ac-e894-49a8-b0a0-268617a19b79</webElementGuid>
+      <webElementGuid>9405540d-7c71-484a-8fcf-761009622a8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::span[1]</value>
-      <webElementGuid>62b14523-62eb-4a1c-ae50-4a217232b7ad</webElementGuid>
+      <webElementGuid>d7ad6ba5-8420-4d52-8526-d612bf8a9d64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[2]</value>
-      <webElementGuid>54736835-7409-40d7-8def-7e83798bd7f7</webElementGuid>
+      <webElementGuid>77ea88c5-e217-4d26-a9a9-08d83c5ff511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +71,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ng-select/div/span</value>
-      <webElementGuid>79cd4fb7-7b49-4801-8dfb-6fd485423d6e</webElementGuid>
+      <webElementGuid>a159e143-281f-411e-95df-2bafbbdb022e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

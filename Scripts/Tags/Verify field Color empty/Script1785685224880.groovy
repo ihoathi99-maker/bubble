@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 // 1. Mở trang thêm tag
 // 2. Bỏ trống タグ名, chỉ nhập các field khác
-WebUI.setText(findTestObject('Add Tags/input_Name'), 'Tag 134')
+WebUI.setText(findTestObject('Add Tags/input_Name'), 'Tag 168')
 
 WebUI.setText(findTestObject('Add Tags/input_Slug'), 'test-slug')
 
@@ -39,5 +39,5 @@ WebUI.verifyElementText(findTestObject('Add Tags/Message empty color'), '表示�
 // 5. Verify KHÔNG bị redirect (vẫn ở trang thêm tag - lưu thất bại)
 WebUI.verifyElementPresent(findTestObject('Add Tags/button_Save'), 3)
 
-WebUI.closeBrowser()
+WebUI.refresh()
 

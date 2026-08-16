@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Add Tags/input_Name'), 'Category 20')
+WebUI.setText(findTestObject('Add Tags/input_Name'), 'Category 168')
 
-WebUI.setText(findTestObject('Add Tags/input_Slug'), 'category 20')
+WebUI.setText(findTestObject('Add Tags/input_Slug'), 'category 168')
 
 WebUI.setText(findTestObject('Add Tags/input_color'), '#660000')
 
@@ -27,7 +27,9 @@ WebUI.setText(findTestObject('Add Tags/input_Lable color'), '#faf2f2')
 
 WebUI.click(findTestObject('Add Tags/button_Save'))
 
-WebUI.verifyElementPresent(findTestObject('Add Tags/Message success'), 5)
+WebUI.verifyElementPresent(findTestObject('Add Tags/Message create success'), 5)
 
-WebUI.verifyElementText(findTestObject('Add Tags/Message success'), 'タグを更新しました。')
+WebUI.verifyElementText(findTestObject('Add Tags/Message create success'), 'タグを作成しました。')
+
+WebUI.closeBrowser()
 

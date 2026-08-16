@@ -6,12 +6,11 @@
    <elementGuidId>f91fde6a-244c-47a8-b0a0-a6655edfaaf8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@class='error-text'])[4] </value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'color-picker-label') and contains(.,'ラベル色')]/ancestor::gun-form-control//div[@class='error-text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d00cfa1e-908a-445a-9839-c7e20a84a840</webElementGuid>
+      <webElementGuid>7c609cee-3a70-4ce9-916f-b0655e3bad13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>error-text</value>
-      <webElementGuid>082a7f18-672a-4b66-99ad-f56198d18553</webElementGuid>
+      <webElementGuid>f0115ee8-804d-4463-b7bc-e88df7bc346d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ラベル色を入力してください。</value>
-      <webElementGuid>cdeff7a8-c38f-485e-9b5f-c4cfc13680ac</webElementGuid>
+      <webElementGuid>63b5c6dd-802c-4aaa-9462-3f0913ad805e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tagForm&quot;)/div[@class=&quot;detail-body&quot;]/div[@class=&quot;detail-layout&quot;]/div[@class=&quot;detail-main&quot;]/div[@class=&quot;detail-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;color-picker-container&quot;]/gun-form-control[@class=&quot;required&quot;]/div[@class=&quot;gun-form-control-wrapper&quot;]/div[@class=&quot;error-container d-flex align-items-start gap-4&quot;]/div[@class=&quot;error-text&quot;]</value>
-      <webElementGuid>cc23c3f5-1e3a-4eec-a000-e11511fd5090</webElementGuid>
+      <webElementGuid>8ce1be4c-18c9-409d-a1b6-6d29899077dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='tagForm']/div/div/div/div[2]/div[2]/div/gun-form-control[2]/div/div[3]/div</value>
-      <webElementGuid>dfe3f578-df35-4cc3-9b56-315c109e4ee0</webElementGuid>
+      <webElementGuid>33c9156f-7dfc-4e83-9ba5-de36e5c2b682</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[7]</value>
-      <webElementGuid>8b5f141f-8ef2-4a81-af62-c16afedbbdab</webElementGuid>
+      <webElementGuid>8f9d4973-e4ba-4ab3-b38a-5b86b9f6ac2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ステータス'])[1]/preceding::div[3]</value>
-      <webElementGuid>a6f71b46-d70e-47bc-8079-26f62f0abed7</webElementGuid>
+      <webElementGuid>60fa7ae7-dc6f-4126-9cdd-54e92c36af5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ステータス'])[2]/preceding::div[4]</value>
-      <webElementGuid>1b73314f-e223-49a6-a0ab-c9cca1a099f1</webElementGuid>
+      <webElementGuid>d424a3e3-d20b-49d1-ba3e-ad41bffd5f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ラベル色を入力してください。']/parent::*</value>
-      <webElementGuid>b7fd939d-7eae-4778-9eae-93698a27110e</webElementGuid>
+      <webElementGuid>c6eee3f6-c3ec-4e0d-b1c1-00bf61635764</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//gun-form-control[2]/div/div[3]/div</value>
-      <webElementGuid>7af466c4-e72b-40e6-8ea5-d9ed05a6c26c</webElementGuid>
+      <webElementGuid>fbb6bb51-2734-4011-aa20-a68ee3355eba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'ラベル色を入力してください。' or . = 'ラベル色を入力してください。')]</value>
-      <webElementGuid>b1736af6-4d56-4d1f-9d13-215de78a34e0</webElementGuid>
+      <webElementGuid>9eb714d2-90c0-4ebf-a6b0-8d2e326d33b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

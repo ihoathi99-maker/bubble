@@ -35,5 +35,5 @@ WebUI.verifyElementPresent(findTestObject('Add Tags/Message empty lable color'),
 
 WebUI.verifyElementText(findTestObject('Add Tags/Message empty lable color'), 'ラベル色を入力してください。')
 
-WebUI.click(findTestObject('Add Tags/button_Cancel'))
+WebUI.refresh(FailureHandling.STOP_ON_FAILURE)
 

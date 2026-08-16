@@ -39,5 +39,5 @@ WebUI.verifyElementText(findTestObject('Add Tags/Message empty lable color'), '�
 // 5. Verify KHÔNG bị redirect (vẫn ở trang thêm tag - lưu thất bại)
 WebUI.verifyElementPresent(findTestObject('Add Tags/button_Save'), 3)
 
-WebUI.closeBrowser()
+WebUI.refresh()
 
